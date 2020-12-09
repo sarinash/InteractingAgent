@@ -1,13 +1,14 @@
 # InteractingAgent
 To see the preview please click bellow to watch the youtube video.
-
+___
 ## Preview Here:
 Youtube link: https://youtu.be/s7F3j2YnaUM
-## avatar made by vroid:
+___
+## Avatar made by vroid:
 https://vroid.com/en/
 ## Speech detection by Unity plug-in for the Cognitive Speech:
 https://docs.microsoft.com/en-us/windows/mixed-reality/develop/unity/voice-input-in-unity
-## how it works:
+## How it works:
 Capture audio from microphone, detect speech, and acts.
 
 ## Acknowledgement
